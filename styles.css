@@ -37,7 +37,7 @@ body {
   width: 445px;
   margin: 0 auto;
   text-align: center;
-  padding-top: 22px;
+  padding-top: 22px; 
   opacity: 0;
   transition: .3s;
 }

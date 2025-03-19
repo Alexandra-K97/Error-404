@@ -16,11 +16,11 @@ body {
   cursor: pointer;
 }
 .content__text :hover ~ h1 {
-  opacity: 1;
+  opacity: 1; 
   padding-top: 10px;
 }
 .content__link {
-  font-size: 17px;
+  font-size: 17px; 
   width: 420px;
   margin: 0 auto;
   text-align: center;
@@ -37,7 +37,7 @@ body {
   width: 445px;
   margin: 0 auto;
   text-align: center;
-  padding-top: 22px;
+  padding-top: 22px; 
   opacity: 0;
   transition: .3s;
 }
